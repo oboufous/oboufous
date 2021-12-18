@@ -26,7 +26,7 @@ Personal website: www.omarboufous.me
 
 
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oboufous)](https://github.com/anuraghazra/github-readme-stats)
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oboufous)](https://github.com/oboufous/github-readme-stats)
 
 ## More
 * [https://omarboufous.me](https://omarboufous.me) - Personal website
