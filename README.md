@@ -29,7 +29,7 @@ Feel free to get in touch:
 ## Social
 <a href="https://www.linkedin.com/in/omar-boufous/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/linkedin.svg" alt="Omar Boufous | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/omar.skrt"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/instagram.svg" alt="Omar Boufous | Instagram" width="21px"/></a>
-<a href="https://example.medium.com/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/medium.svg" alt="Omar Boufous | Medium" width="21px"/></a>
+<a href="https://scholar.google.com/citations?user=cDeJ1xcAAAAJ&hl=en&oi=ao"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/medium.svg" alt="Omar Boufous | Scholar" width="21px"/></a>
 <a href="https://twitter.com/Omar91931789/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/twitter.svg" alt="Omar Boufous | Twitter" width="21px"/></a>
 <a href="https://www.youtube.com/channel/UCQ7H9JdTD0xciEgd1XlJ-vw/videos/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/youtube.svg" alt="Omar Boufous | Youtube" width="21px"/></a>
 </br>
