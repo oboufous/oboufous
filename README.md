@@ -28,6 +28,7 @@ Feel free to get in touch:
 
 ## Social
 <a href="https://www.linkedin.com/in/omar-boufous/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/linkedin.svg" alt="Omar Boufous | LinkedIn" width="21px"/></a>
+<a href="https://omarboufous.me"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/website.svg" alt="Omar Boufous | Website" width="21px"/></a>
 <a href="https://instagram.com/omar.skrt"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/instagram.svg" alt="Omar Boufous | Instagram" width="21px"/></a>
 <a href="https://scholar.google.com/citations?user=cDeJ1xcAAAAJ&hl=en&oi=ao"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/scholar.svg" alt="Omar Boufous | Scholar" width="21px"/></a>
 <a href="https://twitter.com/Omar91931789/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/twitter.svg" alt="Omar Boufous | Twitter" width="21px"/></a>
