@@ -19,7 +19,6 @@ Omar Boufous received a double M.Sc jointly from KTH Royal Institute of Technolo
 His research interests target multiagent learning, using game theoretic tools for autonomous and dynamical systems. The study of such systems requires mathematical modelling and design involving the interaction between agents, their communication and integration. As a result, his research combines theory and applications for example in machine learning and telecommunication networks.
 
 Feel free to get in touch:
-* Phone: +33 625 662 096
 * Mail: contact@omarboufous.me
 * Personal website: www.omarboufous.me
 
