@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Omar Boufous - @oboufous
 
-Omar Boufous received a double M.Sc jointly from KTH Royal Institute of Technology (Stockholm, Sweden) and Aalto University (Helsinki, Finland) specializing in Autonomous Systems and a M.Eng ("diplôme d'ingénieur") in Computer Science and Electrical Engineering from Institut Mines-Telecom Atlantique. He is currently a Research Scientist at Orange Labs.
+Omar Boufous received a double M.Sc jointly from KTH Royal Institute of Technology (Stockholm, Sweden) and Aalto University (Helsinki, Finland) specializing in Autonomous Systems and a M.Eng ("diplôme d'ingénieur") in Computer Science and Electrical Engineering from Institut Mines-Telecom Atlantique. He is currently a PhD Student at Orange.
 
 His research interests target multiagent learning, using game theoretic tools for autonomous and dynamical systems. The study of such systems requires mathematical modelling and design involving the interaction between agents, their communication and integration. As a result, his research combines theory and applications for example in machine learning and telecommunication networks.
 
