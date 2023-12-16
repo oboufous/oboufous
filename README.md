@@ -19,8 +19,8 @@ Omar Boufous received a double M.Sc jointly from KTH Royal Institute of Technolo
 His research interests target multiagent learning, using game theoretic tools for autonomous and dynamical systems. The study of such systems requires mathematical modelling and design involving the interaction between agents, their communication and integration. As a result, his research combines theory and applications for example in machine learning and telecommunication networks.
 
 Feel free to get in touch:
-* Mail: contact@omarboufous.me
-* Personal website: www.omarboufous.me
+* Mail: contact@omarboufous.com
+* Personal website: www.omarboufous.com
 
 
 [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oboufous)](https://github.com/oboufous/github-readme-stats)
