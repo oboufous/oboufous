@@ -23,7 +23,7 @@ Feel free to get in touch:
 * Personal website: www.omarboufous.com
 
 
-[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oboufous)](https://github.com/oboufous/github-readme-stats)
+ <!--  [![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oboufous)](https://github.com/oboufous/github-readme-stats) -->
 
 ## Social
 <a href="https://www.linkedin.com/in/omar-boufous/"><img align="left" src="https://raw.githubusercontent.com/oboufous/oboufous/main/images/linkedin.svg" alt="Omar Boufous | LinkedIn" width="21px"/></a>
